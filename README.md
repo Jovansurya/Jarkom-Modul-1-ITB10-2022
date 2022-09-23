@@ -64,7 +64,7 @@ untuk mempermudah pembacaan kami menggunakan filter ip.host == 127.0.1.1 && ip.h
 ![Output result](img/8c.png)
  file tersebut akan dikirim melalu port 9002
  ![Output result](img/8d.png)
-percakapan tersebut dilanjutkan dengan mhs 127.0.1 bertanya mengenai password yang benar
+percakapan tersebut dilanjutkan dengan mhs 127.0.0.1 bertanya mengenai password yang benar
 ![Output result](img/8e.png)
 **sebelumnya kami hanya memasukan 1 potongan percakapan saja**
 
